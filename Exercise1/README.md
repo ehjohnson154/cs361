@@ -1,0 +1,1 @@
+This is the readme for exercises 1a and 1b, due on 10/2/2022
